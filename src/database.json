@@ -3,14 +3,74 @@
     "6281938853934@s.whatsapp.net": {
       "afkTime": -1,
       "afkReason": "",
-      "limit": "Infinity"
+      "limit": 100000
     },
     "6282331660134@s.whatsapp.net": {
       "afkTime": -1,
       "afkReason": "",
-      "limit": "Infinity"
+      "limit": 100000
     },
     "6281398750388@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100000
+    },
+    "6288229577077@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100000
+    },
+    "6283177229071@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100000
+    },
+    "62895341288667@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100000
+    },
+    "6289694776595@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100000
+    },
+    "6281387779876@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100000
+    },
+    "6281272955589@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100000
+    },
+    "6281572239432@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100000
+    },
+    "6289515863153@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100000
+    },
+    "6282172659557@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100000
+    },
+    "62895378318669@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100000
+    },
+    "6288230459158@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100000
+    },
+    "6283181860591@s.whatsapp.net": {
       "afkTime": -1,
       "afkReason": "",
       "limit": 100000
@@ -22,6 +82,34 @@
       "antilink": false
     },
     "120363043054462898@g.us": {
+      "mute": false,
+      "antilink": false
+    },
+    "120363042272857940@g.us": {
+      "mute": false,
+      "antilink": false
+    },
+    "120363038365259067@g.us": {
+      "mute": false,
+      "antilink": false
+    },
+    "6282331660134@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "6281272955589@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "6281572239432@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "6282172659557@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "6285866295942-1633507104@g.us": {
       "mute": false,
       "antilink": false
     }
@@ -41,7 +129,7 @@
   },
   "settings": {
     "6281938853934@s.whatsapp.net": {
-      "status": 1653571668256,
+      "status": 1653640014497,
       "autobio": true
     }
   },
